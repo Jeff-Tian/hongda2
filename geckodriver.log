@@ -1,5 +1,0 @@
-1505279627990	geckodriver	INFO	geckodriver 0.18.0
-1505279628008	geckodriver	INFO	Listening on 127.0.0.1:57302
-1505279630867	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
-1505279637232	Marionette	INFO	Listening on port 57308
-1505279638449	Marionette	WARN	TLS certificate errors will be ignored for this session
